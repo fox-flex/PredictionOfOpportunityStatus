@@ -1,4 +1,4 @@
-./data/test_data_full.csv
-./data/train_data.csv
-./data/test_data_check_template.csv
-
+data/test_data_full.csv
+data/train_data.csv
+data/test_data_check_template.csv
+.ipynb_checkpoints
